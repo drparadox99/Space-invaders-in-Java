@@ -19,7 +19,7 @@ This is a simple implementation of the classic **Space Invaders** game made usin
 
 Dependencies : 
 
-- Python 17.0.1
+- Java 17.0.1
 
 ## How to run :
 - javac SpaceInvaders.java
